@@ -1,13 +1,12 @@
-# Excel Project – Sales Data Analysis
+## 📁 Files included:
 
-This project contains an Excel file with sample data about coffee sales.
-## File Contents:
+### ☕ `coffeeOrders.xlsx`
+- Coffee sales data by month and region
+- Automatic calculations (totals, averages)
+- Trend charts for better visualization
 
-- Sales data table by month and region
-- Total and average calculations
-- Trend charts
-
-## Project objective:
-The aim of the project is to analyze sales data and prepare visualizations that help in making business decisions.
-
+### 📧 `Email Console.xlsm`
+- VBA macros for automated email sending
+- User interface to manage email campaigns
+- Logs of sent messages
 
